@@ -13,8 +13,9 @@
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&theme=highcontrast"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&&langs_count=8&theme=highcontrast""/>
+ <p><img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&theme=highcontrast"/> </p>
+ <p><img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&&langs_count=8&theme=highcontrast""/> </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brenin1991&" alt="Brenin1991" /></p>
 </div>
 
 
