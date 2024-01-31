@@ -2,7 +2,7 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Brenin-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)]([https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt](https://www.youtube.com/@VRBEATS2001)) 
+[![Mail Badge](https://img.shields.io/badge/-Brenin-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@VRBEATS2001) 
 [![Linkedin Badge](https://img.shields.io/badge/-Breno_Campos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-campos-b1ab24193/) 
 [![Mail Badge](https://img.shields.io/badge/-@volt.mix_808-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/volt.mix_808) 
 [![Mail Badge](https://img.shields.io/badge/-Breno_Campos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brenocamposr@gmail.com)
