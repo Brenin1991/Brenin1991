@@ -1,19 +1,30 @@
-### Hi there 👋
+### Hi, I'm Breno 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+:mailbox: Reach me out!
 
-<!--
-**Brenin1991/Brenin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Mail Badge](https://img.shields.io/badge/-Brenin-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)]([https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt](https://www.youtube.com/@VRBEATS2001)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Breno_Campos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-campos-b1ab24193/) 
+[![Mail Badge](https://img.shields.io/badge/-@volt.mix_808-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/volt.mix_808) 
+[![Mail Badge](https://img.shields.io/badge/-Breno_Campos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brenocamposr@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&theme=highcontrast"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&&langs_count=8&theme=highcontrast""/>
+</div>
+
+
+<br/>
+
+### Bizness
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+- :email: maksym.rudnyi@gmail.com
+
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Brenin1991)
+
+
