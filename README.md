@@ -22,9 +22,5 @@
 
 ### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
-- :email: maksym.rudnyi@gmail.com
-
-### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Brenin1991)
-
+- :email: brenocamposr@gmail.com
 
