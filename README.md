@@ -14,8 +14,8 @@
 
 <div>
   <a href="https://github.com/Brenin1991">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&langs_count=6&theme=gruvbox"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ### languages, frameworks and databases 💻
@@ -53,6 +53,8 @@
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ### ‎ 
@@ -62,6 +64,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
    <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Js" height="100" width="100" src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-Intellij-IDEA.png">
+  <img align="center" alt="Js" height="70" width="70" src="https://static-00.iconduck.com/assets.00/android-studio-icon-1940x2048-pk1n6dh8.png">
 </div>
 
 
