@@ -29,12 +29,12 @@
     <img align="center" alt="HTML" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
-  <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg">
 </div>
 
 ### ‎ 
 <div style="display: inline_block">
+  <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
+  <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg">
@@ -43,6 +43,7 @@
    <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+### ‎ 
 
 ### Engines, tools and platforms🔧
 
@@ -53,6 +54,8 @@
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
+
+### ‎ 
 
 ### IDEs🔧
 
