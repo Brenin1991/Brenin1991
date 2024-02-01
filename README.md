@@ -14,8 +14,8 @@
 
 <div>
   <a href="https://github.com/Brenin1991">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&langs_count=6&theme=shadow_red"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
 
 ### languages, frameworks and databases 💻
