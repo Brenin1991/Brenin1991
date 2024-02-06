@@ -13,9 +13,13 @@
 ### My stats ⭐
 
 <div>
-  <a href="https://github.com/Brenin1991">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Brenin1991&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&layout=compact&langs_count=6&theme=tokyonight"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brenin1991&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brenin1991&theme=radical)
+<a href="https://github.com/Brenin1991"><img alt="Brenin1991's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenin1991&langs_count=10&layout=compact&theme=radical&hide_border=true" height="230px" /></a>
+
+![Brenin1991's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenin1991&theme=radical&show_icons=true&hide_border=true)
+<a href="https://github.com/Brenin1991"><img alt="Brenin1991's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Brenin1991&theme=radical&hide_border=true" height="200px" /></a>
+<a href="https://github.com/Brenin1991"><img alt="Brenin1991's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brenin1991&theme=radical" height="250px"/></a>
 </div>
 
 ### languages, frameworks and databases 💻
