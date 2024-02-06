@@ -72,6 +72,8 @@
   <img align="center" alt="Js" height="70" width="70" src="https://static-00.iconduck.com/assets.00/android-studio-icon-1940x2048-pk1n6dh8.png">
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22muo3rgy2a3qbeuzfl3pufoi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff00b3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
