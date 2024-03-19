@@ -81,6 +81,6 @@
 <br/>
 
 ### Bizness
-- :paperclip: [My Resume/CV]([https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharin](https://docs.google.com/document/d/e/2PACX-1vTvhoJFtSbqRLtz5htFSqJiZmtvbfws5oU5xFDHyJTg90eyntJK-_ZWK44W2vN_wzZbPUpIRLWNhzn6/pub)https://docs.google.com/document/d/e/2PACX-1vTvhoJFtSbqRLtz5htFSqJiZmtvbfws5oU5xFDHyJTg90eyntJK-_ZWK44W2vN_wzZbPUpIRLWNhzn6/pubg)
+- :paperclip: [My Resume/CV](https://docs.google.com/document/d/e/2PACX-1vTvhoJFtSbqRLtz5htFSqJiZmtvbfws5oU5xFDHyJTg90eyntJK-_ZWK44W2vN_wzZbPUpIRLWNhzn6/pub)
 - :email: brenocamposr@gmail.com
 
